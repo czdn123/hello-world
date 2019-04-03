@@ -1,2 +1,5 @@
 # hello-world
-just anothor repository
+
+hi, humans:
+
+Please take care of your new arrival.
